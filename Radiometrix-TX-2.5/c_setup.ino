@@ -27,7 +27,7 @@ void setup()
 
 
   // set the data rate for the SoftwareSerial port
-  mySerial.begin(2400);
+  mySerial.begin(4800);
 
   pinMode(LED, OUTPUT);
   pinMode(Enable, OUTPUT);

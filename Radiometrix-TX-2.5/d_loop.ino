@@ -28,9 +28,9 @@ void loop()
 
   // Data payload
   // mySerial.write(byteArr, sizeof(byteArr));
-  // mySerial.write(0x11); // start marker
+  mySerial.write(0x11); // start marker
   // mySerial.write(byteArr, 6);
-  // mySerial.write(0x18); // stop marker
+  mySerial.write(0x18); // stop marker
 
   // Switch TX LED off
   // digitalWrite(LED, LOW);
