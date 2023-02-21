@@ -2,7 +2,9 @@
 
 Digital version with Manchester encoding now being tried. This digital version controls 6 servo channels and has built in failsafe. Next thing is range testing.
 
-The Modules also work with a direct feed from the TX ppm stream which makes very simple hardware. The servos are fed from the RX via JHMCU ppm to pwm convertor.
+The Modules also work with a direct feed from the TX ppm stream which makes for very simple hardware. The servos are fed from the RX via JHMCU ppm to pwm convertor. This version needs separate failsafe units. Suitable ones (Thanks to Geofrancis for the suggestion) are:
+
+https://www.ebay.co.uk/itm/401482463111
 
 For TX, Arduino pin D6 connected to the Radiometrix module through a 120 k ohm resistor to protect input.
 For RX, Arduino pin D11 connected to module data output (open collector) with 4.7K ohm pullup to +5v.
