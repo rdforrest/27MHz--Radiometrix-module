@@ -2,7 +2,7 @@
 
 Digital version with Manchester encoding now being tried. This digital version controls 6 servo channels and has built in failsafe. Next thing is range testing.
 
-The Modules (Up to TX Version 2. and RX Version 2.7 also work with a direct feed from the TX ppm stream which makes for very simple hardware. The servos are fed from the RX via JHMCU ppm to pwm convertor. This version needs separate failsafe units. Suitable ones (Thanks to Geofrancis for the suggestion) are:
+The Modules (Up to TX Version 2.6 and RX Version 2.7 also work with a direct feed from the TX ppm stream which makes for very simple hardware. The servos are fed from the RX via JHMCU ppm to pwm convertor. This version needs separate failsafe units. Suitable ones (Thanks to Geofrancis for the suggestion) are:
 
 https://www.ebay.co.uk/itm/401482463111
 
