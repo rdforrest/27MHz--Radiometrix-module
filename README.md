@@ -6,7 +6,7 @@ The Modules (Up to TX Version 2. and RX Version 2.7 also work with a direct feed
 
 https://www.ebay.co.uk/itm/401482463111
 
-For TX, Arduino pin D6 connected to the Radiometrix module through a 120 k ohm resistor to protect input.
+To connect the modules to an Arduino Nano. For TX, Arduino pin D6 connected to the Radiometrix module through a 120 k ohm resistor to protect input.
 For RX, Arduino pin D11 connected to module data output (open collector) with 4.7K ohm pullup to +5v.
 
 The Rssi display and the audio output on the RX module are very useful.
