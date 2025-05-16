@@ -1,5 +1,5 @@
 # 27MHz--Radiometrix-module. Uses the LMT0 and LMR0 modules. Early development of this project.   
-
+July 2023
 Digital version with Manchester encoding now developed and with underwater trials on a model submarine.. This digital version controls 6 servo channels and has built in failsafes. 
 
 To connect the modules to an Arduino Nano. For TX, Arduino pin D6 connected to the Radiometrix module through a 120 k ohm resistor to protect the module input.
