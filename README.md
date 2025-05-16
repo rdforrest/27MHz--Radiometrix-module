@@ -10,4 +10,4 @@ The RSSI display and the audio output on the RX module are very useful.
 
 I am not going to continue with any trials for the time being because it is not as reliable or easy to use as my existing  OpenLRS and LoRa gear working on 458 Mhz and I don't want to risk my subs any more.
 
-M<ay 2025
+May 2025
