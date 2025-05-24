@@ -1,4 +1,4 @@
-# 27MHz--Radiometrix-module. Uses the LMT0 and LMR0 modules simply. Development of this project.   
+# 27MHz--Radiometrix-module. The LMT0 and LMR0 modules used simply. Development of this project.   
 July 2023
 
 Digital version with Manchester encoding now developed and with underwater trials on a model submarine.. This digital version controls 6 servo channels and has built in failsafes. 
