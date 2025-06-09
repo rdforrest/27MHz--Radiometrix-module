@@ -6,7 +6,7 @@ Digital version with Manchester encoding now developed and with underwater trial
 To connect the modules to an Arduino Nano. For TX, Arduino pin D6 connected to the Radiometrix module through a 120 k ohm resistor to protect the module input.
 For RX, Arduino pin D11 connected to module data output (open collector) with 4.7K ohm pullup to +5v.
 
-The RSSI display and the audio output on the RX module are very useful. The modules are CE approved and hence legal for r/c use.
+The RSSI display and the audio output on the RX module are very useful. The modules are CE approved and hence legal for R/C use.
 
 I am not going to continue with any software development though because it is not as reliable or easy to use as my existing  OpenLRS and LoRa gear working on 458 Mhz and I don't want to risk my subs any more.
 
