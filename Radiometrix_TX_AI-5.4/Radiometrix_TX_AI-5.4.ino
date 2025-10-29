@@ -59,7 +59,7 @@ Of the 256 possible 8 bit codes, 70 contain 4 ones & 4 zeros. Omitting 0Fh, F0h,
   - For RX , Servo outputs pins D5 to D12
   - For RX , RX connected to module data input (open collector) with 4.7K ohm pullup to +5v if used
   - For RX , A0 connected to module RSSI output
-
+  - Both TX and RX use Schuckman antennae matching units.)
 REMOVED:
 Please provide RX and TX code as a zipped file.
 The input data is from a transmitter PPM stream for 8 channels but provide a Debug mode where the hex code 5E is on all the channels.
