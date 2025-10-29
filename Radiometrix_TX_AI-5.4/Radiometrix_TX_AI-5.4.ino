@@ -17,7 +17,7 @@
   Mar 7       3.2     DF        Cleaned up code and put Failsafe in based on TX ID code
   Jun 3       4.0     DF        Revisited stick mapping. (Had problems with no stick output.) Not very satisfactory still - glitches!
   Oct 10      AI-4.2  DF        Successfully used Chat-GPT to replace Manchester Encoding with Radiometrix recommended methods via UART
-  Oct 25      AI-5.4  DF        Working version with failsafe and servos. Range just about OK. (15m collapsed telescopic. 50m extended telescopic.)
+  Oct 25      AI-5.4  DF        Working version with failsafe and servos. Range just about OK. (15m collapsed telescopic. 50m extended telescopic. Both with Schuckman matching units.)
   Oct 26      AI-5.4  DF        Baud rate dropped to 2400 - this doubled the range. (50m collapsed, 100m+ extended)
 
   Chat GPT Brief:      Radio-control at 27 MHz using Radiometrix modules
